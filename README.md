@@ -1,3 +1,3 @@
-# nepsynakka.fi
+# Nepsynakka
 
-Landing page for nepsynakka.fi. Please see http://nepsynakka.fi for more information.
+Landing page for Nepsynakka. Please see http://nepsynakka.fi for more information about the situation of the project (only in Finnish, sorry).
